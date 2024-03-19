@@ -6,5 +6,5 @@ We have a youtube video that shows the abilities that growlauncher can do!
 Feel free to text us at discord if you have some issues with it 
 discord: .rust.project
 
-
-
+TUTORIAL
+https://streamable.com/lgjpw7
